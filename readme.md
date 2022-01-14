@@ -18,4 +18,4 @@ npm run build
 
 ## Vercel
 
-galaxy-threejs-ksval5zyd-matiaspv42.vercel.app
+https://galaxy-threejs-ksval5zyd-matiaspv42.vercel.app
