@@ -14,3 +14,8 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+
+## Vercel
+
+galaxy-threejs-ksval5zyd-matiaspv42.vercel.app
